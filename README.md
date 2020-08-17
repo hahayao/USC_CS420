@@ -1,8 +1,8 @@
-# cs420
-Course Project UCS CS420
+# CS420
+Course Projects UCS CS420 Computer Graphics
 
-Height Map Demo: https://drive.google.com/file/d/1v2aHgQIiX6ZOPdviIa7-11I__DROnIXz/view?usp=sharing
+Assign 1: Height Map Demo: https://youtu.be/GZeeoSWbqe8
 
-Roller Coaster Demo: https://drive.google.com/file/d/1x5isCPkuA-qzMnNHaSA42Bqz0vHPMUeT/view?usp=sharing
+Assign 2: Roller Coaster Demo: https://youtu.be/sfbgiVGXH9g
 
-Ray Tracing Demp: https://drive.google.com/file/d/1IZLJkOnOZpQrv31r8FsIa0sDX0P4a1Q9/view?usp=sharing
+Assign 3: Ray Tracing Demp: https://youtu.be/Czi2OyFlhTU
